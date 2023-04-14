@@ -1,0 +1,8 @@
+{
+  "name": "@atlantis-world-core/libs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Carlo Miguel Dy <carlomigueldy@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
